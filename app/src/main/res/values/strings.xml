@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Clima</string>
+    <string name="temp">TextView</string>
+    <string name="city">TextView</string>
+    <string name="description">TextView</string>
+    <string name="date">TextView</string>
+    <string name="sdf">DD-MM-YYYY</string>
+    <string name="C">C</string>
+</resources>
